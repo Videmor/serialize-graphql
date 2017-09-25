@@ -1,2 +1,1 @@
-# serialize-graphql
-Demo Api Serialize &amp; GraphQL
+# serialize-graphqQLDemo Api Serialize &amp; GraphQL
